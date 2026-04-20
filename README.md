@@ -1,4 +1,12 @@
 # GRASS-Net-Hyperspectral-Mineral-Mapping
+
+GRASS-Net: A Graph Regularized Attention-Based Spectral–Spatial Network 
+for Unsupervised Hyperspectral Mineral Mapping 
+
+Journal of the Indian Society of Remote Sensing
+
+
+
 GRASS-Net is a novel unsupervised deep learning framework for hyperspectral mineral mapping. It integrates graph regularized spatial–spectral subspace clustering, multi-scale spectral feature extraction, multi-scale spectral–spatial attention module, and cross-attentional spectral–spatial fusion.
 
 Step-by-step explanation of the full pipeline
